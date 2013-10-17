@@ -85,6 +85,6 @@ angular.module('myApp.controllers', [])
     $scope.setIssueList();
   }])
 
-  .controller('MyCtrl3', [function() {
+  .controller('MyCtrl2', [function() {
 
   }]);
